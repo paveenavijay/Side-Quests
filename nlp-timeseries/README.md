@@ -4,6 +4,12 @@
 ## Goal
 Analyze how public sentiment from Twitter, Reddit, or news headlines influences short-term stock price movements. This project combines Natural Language Processing (NLP), Finance, and Time-Series Analysis, which I believe is a perfect mix of data-driven storytelling and quantitative insight.
 
+### Key Insights 
+
+- Do spikes in positive sentiment precede stock price increases?
+- How long is the lag between sentiment and price movement?
+- Are certain stocks more sentiment-sensitive than others?
+
 ## Conception of the Project 
 I've been teaching myself NLP and I wanted to work on a project that also combines my new-found interest in finance. This was an excellent way to put my theoretical knowledge to test and translate what I have been learning into something practical and usable. 
 
