@@ -12,11 +12,12 @@ The idea is simple:
 Does the market’s mood affect stock prices?
 
 Using a dataset of stock-related tweets labeled as positive or negative, we:
-Clean and preprocess the sentiment data
-Collect stock price data via APIs (e.g., Yahoo Finance)
-Perform lag and correlation analysis to check if sentiment predicts returns
-Visualize relationships between mood and market movement
-Optionally, build an interactive Streamlit dashboard for exploration
+
+- Clean and preprocess the sentiment data
+- Collect stock price data via APIs (e.g., Yahoo Finance)
+- Perform lag and correlation analysis to check if sentiment predicts returns
+- Visualize relationships between mood and market movement
+- Optionally, build an interactive Streamlit dashboard for exploration
 
 ## Source 
 [Stock-Market Sentiment Dataset – Kaggle](https://www.kaggle.com/datasets/yashchaudhary007/stock-market-sentiment-dataset)
